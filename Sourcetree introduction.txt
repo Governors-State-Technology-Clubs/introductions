@@ -1,0 +1,13 @@
+Jacob Abrams - Introduction
+GSU Software Engineering Club
+------------------------------
+
+Hey guys, nice to meet everyone. I am excited to serve as the treasurer for Software Engineering club for the Fall 2024 semester.
+Academically, I am a junior computer science major interested in topics at the intersection of technology and criminal justice reform.
+I've done research on algorithmic risk asseesmeent instruments used in American criminal courts and predicitive policing models. My mission is to use technology for social good.
+I am a novice programmer, but am strongest in Java and C++ languages. 
+
+Otherwise, I play bass and guitar, play video games and some tabletop games, like working out a little bit, and spending time with my friends and girlfriend.
+Looking forward to working and meeting everyone!
+
+
